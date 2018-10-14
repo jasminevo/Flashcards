@@ -5,8 +5,7 @@ This app creates flashcards that allows you to switch back and forth with the si
 
 ### App Walk-though
 
-https://i.imgur.com/yMsNIeC.gifv
-
+https://i.imgur.com/yMsNIeC.gif
 
 ## Required
 - [x] Create New Project in Xcode
