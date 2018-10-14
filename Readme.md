@@ -5,7 +5,7 @@ This app creates flashcards that allows you to switch back and forth with the si
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+https://i.imgur.com/yMsNIeC.gifv
 
 
 ## Required
